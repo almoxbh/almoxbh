@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao repositório do Almoxarifado Belo Horizonte
 
 You can use the [editor on GitHub](https://github.com/almoxbh/almoxbh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
